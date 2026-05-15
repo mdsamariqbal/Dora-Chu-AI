@@ -1,6 +1,6 @@
-Fusion Refine – Multi-Agent AI Decision System
+Dora Chu AI – Multi-Agent AI Decision System
 
-Fusion Refine is a FastAPI-based multi-agent AI system that analyzes user problems from multiple perspectives and generates a balanced final recommendation using local LLMs (Ollama).
+Dora Chu AI is a FastAPI-based multi-agent AI system that analyzes user problems from multiple perspectives and generates a balanced final recommendation using local LLMs (Ollama).
 
 Features
 	•	Multi-agent architecture (Emotional, Logical, Career, Motivation, Planning)
